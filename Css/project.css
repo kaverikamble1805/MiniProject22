@@ -276,7 +276,7 @@ padding: 10px;
     color: #fff;
 }
 .mainsec {
-    margin: 20px;
+   padding-top: 40px;
     display: flex;
     justify-content: space-around;
 }
@@ -449,12 +449,7 @@ p {
     top: 7px;
     color: #fff;
 }
-.imagedis {
-    margin-top: 40px;
-    display: flex;
-    justify-content: center;
-    align-items: centers;
-}
+
 .imagedis img {
     border-radius: 90%;
     border: 3px solid black;
